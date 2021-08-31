@@ -2,11 +2,12 @@
 <board xmlns="http://board.namespaces.minibloq.org" xmlns:minibloq="http://minibloq.org" MinibloqVersion="0.82.Beta">
     <properties>
 		<manufacturer>Inis-UAP</manufacturer>
-		<name>Mulita.v.0.03</name>
-		<url0>http://mulita.com.ar</url0>
+		<name>Mulita.v.1.0</name>
+		<url0>www.thingiverse.com/inisuap/designs</url0>
+		<url1>www.github.com/InisUAP/mulita</url1>
 		<cpu>atmega328p</cpu>
 		<clockFreq>16000000L</clockFreq>
-		<imgMain>main.png</imgMain>
+		<imgMain>main.jpg</imgMain>
 		<imgThumb>thumb.png</imgThumb>
 		<win_i386_lang>WinAVR/v20090313/bin</win_i386_lang>
 		<win_i386_uploader>avrdude.209130919.exe</win_i386_uploader>
